@@ -39,7 +39,7 @@ After creating your account, you now need to add your game to the platform. Crea
 After your game is approved, you can add the creative materials for the user acquisition campaign. This can be done easily through the following steps:
 
 -	Step 1: Click on the game’s name on the “Application Management” tab;
--	
+	
   ![a03](imgs/a03.png)
 -	Step 2: Select the “AD MATERIAL” ribbon and then click on the “ADD MATERIAL” button.
 	
@@ -61,7 +61,7 @@ As soon as your creative materials are approved, you can create a campaign insid
 ![a06](imgs/a06.png)  
 - Time Setting: When the campaign should start and end. By default, there is no end date.
 - Material Setting: Here you will select one of the approved materials you have already submitted.
-- 
+ 
  ![a07](imgs/a07.png) 
 - Targeting Setting: This allows you to refine your campaign regarding Time, Network, and Geo. By default, no restrictions are selected.
 
@@ -74,7 +74,7 @@ As soon as your creative materials are approved, you can create a campaign insid
 ![a10](imgs/a10.png) 
 - Geo: Click on the field to select which countries you would like to focus your campaign on.
 
-![a11](imgs/a11.png)  
+![a11](imgs/a11.png) 
 - Tracking Setting: This is where you will set the tracking URL. Check our [Server to Server Install Tracking article](https://github.com/zplayads/Server-to-Server-Install-Tracking/blob/master/Advertiser%20Server%20to%20Server%20Install%20Tracking.md) for more info .
 
 ![a12](imgs/a12.png) 
