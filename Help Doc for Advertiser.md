@@ -71,6 +71,7 @@ As soon as your creative materials are approved, you can create a campaign insid
 ![a09](imgs/a09.png) 
 - Network: Restrict to which type of network your ad should be displayed.
 
+
 ![a10](imgs/a10.png) 
 - Geo: Click on the field to select which countries you would like to focus your campaign on.
 
